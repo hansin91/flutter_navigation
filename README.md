@@ -1,4 +1,4 @@
-# meal_app
+# Flutter Navigation
 
 A new Flutter project.
 
